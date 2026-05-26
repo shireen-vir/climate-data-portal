@@ -9,3 +9,6 @@ The Climate Data Portal is a web-based application designed to streamline the pr
 * Data visualization using interactive maps and charts
 ## Getting Started
 To get started, clone the repository and run the setup script to install the required dependencies.
+
+## Changelog
+- Added utility functions
